@@ -1,0 +1,18 @@
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.AssemblyReference.cache
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
+C:\Users\Usuario\Downloads\3capas\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\Usuario\Downloads\3capas\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\Usuario\Downloads\3capas\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\3capas\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\3capas\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\Usuario\Downloads\3capas\CapaDeDatos\obj\Debug\CapaDeDatos.pdb

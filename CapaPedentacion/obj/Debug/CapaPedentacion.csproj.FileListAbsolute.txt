@@ -1,0 +1,47 @@
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaPedentacion\bin\Debug\CapaPedentacion.exe.config
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaPedentacion\bin\Debug\CapaPedentacion.exe
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaPedentacion\bin\Debug\CapaPedentacion.pdb
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaPedentacion\bin\Debug\CapaDeNegocios.dll
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaPedentacion\bin\Debug\CapaDeDatos.dll
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaPedentacion\bin\Debug\CapaDeNegocios.pdb
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaPedentacion\bin\Debug\CapaDeDatos.pdb
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.Form1.resources
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.Properties.Resources.resources
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.csproj.CopyComplete
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.exe
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.pdb
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaPedentacion\bin\Debug\CapaPedentacion.exe.config
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaPedentacion\bin\Debug\CapaPedentacion.exe
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaPedentacion\bin\Debug\CapaPedentacion.pdb
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaPedentacion\bin\Debug\CapaDeNegocios.dll
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaPedentacion\bin\Debug\CapaDeDatos.dll
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaPedentacion\bin\Debug\CapaDeNegocios.pdb
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaPedentacion\bin\Debug\CapaDeDatos.pdb
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.csproj.AssemblyReference.cache
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.csproj.SuggestedBindingRedirects.cache
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.Form1.resources
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.Properties.Resources.resources
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.csproj.GenerateResource.cache
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.csproj.CoreCompileInputs.cache
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.csproj.CopyComplete
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.exe
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.pdb
+C:\Users\Usuario\Downloads\3capas\CapaPedentacion\bin\Debug\CapaPedentacion.exe.config
+C:\Users\Usuario\Downloads\3capas\CapaPedentacion\bin\Debug\CapaPedentacion.exe
+C:\Users\Usuario\Downloads\3capas\CapaPedentacion\bin\Debug\CapaPedentacion.pdb
+C:\Users\Usuario\Downloads\3capas\CapaPedentacion\bin\Debug\CapaDeNegocios.dll
+C:\Users\Usuario\Downloads\3capas\CapaPedentacion\bin\Debug\CapaDeDatos.dll
+C:\Users\Usuario\Downloads\3capas\CapaPedentacion\bin\Debug\CapaDeNegocios.pdb
+C:\Users\Usuario\Downloads\3capas\CapaPedentacion\bin\Debug\CapaDeDatos.pdb
+C:\Users\Usuario\Downloads\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.Form1.resources
+C:\Users\Usuario\Downloads\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.Properties.Resources.resources
+C:\Users\Usuario\Downloads\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.csproj.CopyComplete
+C:\Users\Usuario\Downloads\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.exe
+C:\Users\Usuario\Downloads\3capas\CapaPedentacion\obj\Debug\CapaPedentacion.pdb

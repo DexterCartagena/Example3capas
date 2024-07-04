@@ -1,0 +1,27 @@
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaDeNegocios\bin\Debug\CapaDeNegocios.dll
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaDeNegocios\bin\Debug\CapaDeNegocios.pdb
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaDeNegocios\bin\Debug\CapaDeDatos.dll
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaDeNegocios\bin\Debug\CapaDeDatos.pdb
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CopyComplete
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaDeNegocios\obj\Debug\CapaDeNegocios.dll
+C:\Users\Usuario\Documents\TALLER DE SISTEMAS\3capas\CapaDeNegocios\obj\Debug\CapaDeNegocios.pdb
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaDeNegocios\bin\Debug\CapaDeNegocios.dll
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaDeNegocios\bin\Debug\CapaDeNegocios.pdb
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaDeNegocios\bin\Debug\CapaDeDatos.dll
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaDeNegocios\bin\Debug\CapaDeDatos.pdb
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.AssemblyReference.cache
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CoreCompileInputs.cache
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CopyComplete
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaDeNegocios\obj\Debug\CapaDeNegocios.dll
+E:\ASUS B550M-K\Descargas\3capas\3capas\CapaDeNegocios\obj\Debug\CapaDeNegocios.pdb
+C:\Users\Usuario\Downloads\3capas\CapaDeNegocios\bin\Debug\CapaDeNegocios.dll
+C:\Users\Usuario\Downloads\3capas\CapaDeNegocios\bin\Debug\CapaDeNegocios.pdb
+C:\Users\Usuario\Downloads\3capas\CapaDeNegocios\bin\Debug\CapaDeDatos.dll
+C:\Users\Usuario\Downloads\3capas\CapaDeNegocios\bin\Debug\CapaDeDatos.pdb
+C:\Users\Usuario\Downloads\3capas\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\3capas\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\3capas\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CopyComplete
+C:\Users\Usuario\Downloads\3capas\CapaDeNegocios\obj\Debug\CapaDeNegocios.dll
+C:\Users\Usuario\Downloads\3capas\CapaDeNegocios\obj\Debug\CapaDeNegocios.pdb
